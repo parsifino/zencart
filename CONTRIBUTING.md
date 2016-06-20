@@ -4,7 +4,7 @@
 
 There are numerous ways to contribute to [Zen Cart&reg;](https://www.zen-cart.com/):
 
-1. Post duplicatable bug reports as Issues on github.
+1. Post duplicatable bug reports as Issues on github
 2. Code containing bug fixes or new features or fixing issues on github
 3. Plugins as 3rd party contributions which shopowners can install to their own site
 4. Snippets of bugfixes or minor tweaks to assist with solving specific questions posted on our support forum at [https://www.zen-cart.com/forum.php](https://www.zen-cart.com/forum.php)
